@@ -1,0 +1,32 @@
+body{
+    background-image: url('../assets/soda1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(199, 155, 41);
+}
+li{
+    list-style-type: none;
+}
+.brand-color{
+    color: rgb(199, 155, 41) 
+}
+a{
+    color: rgb(199, 155, 41)
+    justify-content: space-between;
+}
+.blue{
+    color: blue;
+}
+button{
+    background-color: rgb(41,61,74);
+    color:rgb(199, 155, 41);
+}
+.hidden{
+    display: none;
+}
+.decoration{
+    text-decoration-line: underline;
+}
+.footer-color{
+    background-color: rgb(41,61,74);
+}
